@@ -5,7 +5,7 @@
 MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.    
 **MongoDB** : https://www.mongodb.com/
 ## MongoDB Installation Instructions (With GoormIDE)
-1. #**cd ..** and go into the main directory (For GoormIDE go into root@goorm:)        
+1. #**cd ..** and go into the main directory (For GoormIDE go into **root@goorm:**)        
 [**NOTE** : This is just to make the database usable for all the directories inside the container)      
 2. Use #**echo "mongod --nojournal" > mongod**     
 This creates the mongo daemon(monogd) file     
