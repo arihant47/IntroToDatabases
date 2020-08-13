@@ -4,7 +4,7 @@
 ### MongoDB
 MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.    
 **MongoDB** : https://www.mongodb.com/      
-**Package** : npm install mongoose --save
+**NodeJs Package** : npm install mongoose --save
 ## MongoDB Installation Instructions (With GoormIDE)
 1. #**cd ..** and go into the main directory (For GoormIDE go into **root@goorm:**)        
 [**NOTE** : This is just to make the database usable for all the directories inside the container)      
