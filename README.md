@@ -17,3 +17,5 @@ To give permissions
 [**NOTE 1:** ./mongod should always run in a new terminal whenever you are dealing with databases]    
 [**NOTE 2:** To open MongoShell use command #**mongo**    
 There you can use the MongoDB commands (show dbs, exit, find() etc.)]
+
+# Hosted MongoDB
