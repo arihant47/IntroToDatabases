@@ -19,3 +19,6 @@ To give permissions
 There you can use the MongoDB commands (show dbs, exit, find() etc.)]
 
 # Hosted MongoDB
+Proceed with the new registration for MongoDB Atlas (from  https://www.mongodb.com/cloud/atlas). After initially registering you can login and create your database server (cluster), which will work similarly to the original one from mongo lab, after we set it up.        
+1) In the **Create New Cluster screen**, the free options to create your database server should be picked by default, so you should be able click the 'Create Cluster' button on the bottom left to proceed:
+
