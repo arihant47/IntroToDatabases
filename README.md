@@ -48,7 +48,7 @@ You can change **test** in the connection string to your database name
 **That's it! Your app.js should connect successfully to the MongoDB Atlas database, and you should be able to use it just like the original Mongo Lab database.**      
   MongoDB Atlas documentation on how to connect it to Node.js: https://docs.atlas.mongodb.com/driver-connection/#node-js-driver-example
       
-      Blog: https://medium.com/@kharaiarihant47/getting-started-with-mongodb-atlas-b227441c3c20
+     Blog: https://medium.com/@kharaiarihant47/getting-started-with-mongodb-atlas-b227441c3c20
   
 
 
